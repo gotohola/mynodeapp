@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/gotohola/mynodeapp:latest
+          tags: ghcr.io/gotohola/mynodeapp:redis
